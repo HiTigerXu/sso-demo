@@ -141,7 +141,8 @@ john/john123
 
 _Note that after logging in, you need to refresh on the other brokers to see the effect._
 
-##nginx配置
+## nginx配置
+
 ```
 server
 {
